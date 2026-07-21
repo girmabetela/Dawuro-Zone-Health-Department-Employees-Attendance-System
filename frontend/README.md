@@ -1,3 +1,14 @@
-# Frontend
+import Login from "./components/Login";
 
-React.js user interface for Dawuro Zone Health Department Employees Attendance System.
+function App() {
+  return (
+    <div>
+      <h1>Dawuro Zone Health Department</h1>
+      <h2>Employees Attendance System</h2>
+
+      <Login />
+    </div>
+  );
+}
+
+export default App;
