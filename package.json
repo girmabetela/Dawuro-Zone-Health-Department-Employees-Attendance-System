@@ -1,0 +1,17 @@
+{
+  "name": "attendance-system-frontend",
+  "version": "1.0.0",
+  "description": "Dawuro Zone Health Department Employees Attendance System Frontend",
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build"
+  },
+  "dependencies": {
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0"
+  },
+  "devDependencies": {
+    "vite": "^5.0.0"
+  }
+}
